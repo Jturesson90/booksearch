@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Book Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sort_author">Sort on Author</string>
+    <string name="sort_title">Sort on title</string>
+    <string name="sort_date">Sort on date</string>
+    <string name="sort_price">Sort on price</string>
+    <string name="url">https://api.myjson.com/bins/14jdb</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_detail_actvity">DetailActvity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
